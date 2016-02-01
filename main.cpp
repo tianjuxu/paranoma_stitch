@@ -1,3 +1,4 @@
+/***built with OpenCV 2.4.11***/
 #include <iostream>
 #include <fstream>
 #include <string>
